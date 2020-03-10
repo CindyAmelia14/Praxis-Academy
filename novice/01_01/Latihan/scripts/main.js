@@ -1,4 +1,4 @@
-alert('HELLO DEAR');
+alert('HELLO KAMU');
 
 let myImage = document.querySelector('img');
 

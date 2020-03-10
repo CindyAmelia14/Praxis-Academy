@@ -1,0 +1,6 @@
+javascript kekuatan nya di function.
+simple nya adalah seperti variabel.
+saat memanggil satu function nilai parameter nya dapat digunakan berkali-kali.
+
+nilai var/let bisa diubah.
+const nilai sesuatu yang tidak bisa diubah sampai kapanpun.

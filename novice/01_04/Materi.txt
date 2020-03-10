@@ -1,0 +1,6 @@
+String adalah tipe data yg berasal dari huruf dan kata, penggunaannya memakai tanda petik ("). jika tidak memakai tanda 
+petik javascript akan mendefinisikan sebagai function dll.
+Integer adalah tipe data untuk number dan penggunaan nya tanpa tanda petik.
+Reguler expresion adalah konstruksi bahasa untuk mencocokkan teks berdasarkan pola tertentu, terutama untuk kasus-kasus
+kompleks. 
+Regex di javascript menggunakan beberapa karakter. 
